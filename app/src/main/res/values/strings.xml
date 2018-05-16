@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlayService</string>
+    <string name="title_activity_main">Player Service</string>
+</resources>
